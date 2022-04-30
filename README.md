@@ -1,0 +1,1 @@
+this is flutter app for playing dicee game
